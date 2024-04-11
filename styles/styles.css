@@ -1,0 +1,39 @@
+p{
+    font-weight:bold;
+    font-size: larger;
+}
+
+#top{
+    text-decoration: underline;
+    
+}
+.emphasis{
+    font-style: italic  ;
+}
+ol{
+    color:rgb(255, 0, 0);
+    list-style-position: inside;
+}
+ul{
+    color: rgb(255, 0, 0);
+    list-style-position: inside;
+}
+a:link{
+    color: darkgoldenrod;
+}
+a:visited{
+    color: orangered;
+}
+a:active{
+    color: thistle;
+}
+a:hover{
+    color: black;
+}
+body{
+    background-color: rgb(225, 255, 0);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    border: 35px solid black;
+    margin: 50px;
+}
